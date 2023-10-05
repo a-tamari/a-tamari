@@ -1,10 +1,10 @@
 Akihiro Tamari (玉利 彰浩)
-===================
+====================
 
 Hi there :wave:, I'm freelance web engineer in Japan.
 
 About me
------------
+--------------------
 
 10+ years of experience in developing.
 
@@ -37,5 +37,7 @@ About me
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=FFF)
 
 ... and more.
+
+--------------------
 
 ![](https://komarev.com/ghpvc/?username=a-tamari&color=green)
