@@ -40,7 +40,7 @@ About me
 
 ### Works
 
-#### Professional Experiences
+#### Professional Experience
 
 <table>
     <thead>
@@ -96,6 +96,7 @@ About me
                 NGINX<br>
                 PostgreSQL<br>
                 Redis<br>
+                Vagrant<br>
                 Docker
             </td>
         </tr>
@@ -119,7 +120,7 @@ About me
             </td>
             <td>子供向けプログラミング教育サービス開発</td>
             <td>
-                Golang<br>
+                Go<br>
                 MySQL<br>
                 Jenkins<br>
                 VirtualBox<br>
@@ -310,9 +311,9 @@ About me
             </td>
             <td>ソフトバンク・DoCoMo フィーチャーフォン用単語帳アプリ開発</td>
             <td>
-                Java 1.5<br>
-                MEXA 2.3<br>
-                DoJa 5.1
+                Java<br>
+                MEXA<br>
+                DoJa
             </td>
         </tr>
         <tr>
@@ -334,9 +335,9 @@ About me
                 Jul.2008 - Jun.2009<br>
                 (1 years)
             </td>
-            <td>某大手インターネットサービスプロバイダの社内業務用システム開発</td>
+            <td>大手インターネットサービスプロバイダの社内業務用システム開発</td>
             <td>
-                Java 1.4<br>
+                Java<br>
                 Oracle
             </td>
         </tr>
