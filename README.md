@@ -55,6 +55,49 @@ About me
     <tbody>
         <tr>
             <td>
+                Oct.2023 - Jul.2024<br>
+                (7 months)
+            </td>
+            <td>病院向けHRシステム開発</td>
+            <td align="center">4</td>
+            <td>
+                <ul>
+                    <li>Backend Development</li>
+                    <li>Frontend Development</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>PHP</li>
+                    <li>Laravel</li>
+                    <li>NGINX</li>
+                    <li>MySQL</li>
+                    <li>Docker</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Oct.2023 - Jun.2024<br>
+                (6 months)
+            </td>
+            <td>暗号資産ウォレット管理システム開発</td>
+            <td align="center">10+</td>
+            <td>
+                <ul>
+                    <li>Backend Development</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Go</li>
+                    <li>Spanner</li>
+                    <li>gRPC</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>
                 Dec.2020 - Sep.2023<br>
                 (2 years 10 months)
             </td>
