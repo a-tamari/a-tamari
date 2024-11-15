@@ -29,6 +29,7 @@ About me
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=FFF)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=FFF)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=FFF)
+![Spanner](https://img.shields.io/badge/Spanner-EEEEEE?logo=googlecloudspanner)
 
 ![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx)
