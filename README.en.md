@@ -1,13 +1,12 @@
-玉利 彰浩
+Akihiro Tamari
 ====================
 
-はじめまして :wave:<br>
-私は日本でフリーランスのWebエンジニアをしています。
+Hi there :wave:, I'm freelance web engineer in Japan.
 
 About me
 --------------------
 
-私は実務での開発経験が10年以上あります。
+10+ years of experience in developing.
 
 ### Skills
 
@@ -42,30 +41,30 @@ About me
 
 ### Works
 
-#### 職務経歴
+#### Professional Experience
 
 <table>
     <thead>
         <tr>
-            <th>期間</th>
-            <th>プロジェクト</th>
-            <th>メンバー数</th>
-            <th>職務内容</th>
-            <th>採用技術</th>
+            <th>Term</th>
+            <th>Project</th>
+            <th>Team Size</th>
+            <th>Responsibilities</th>
+            <th>Technologies Employed</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td>
-                2023年11月 - 2024年7月<br>
-                (9ヶ月)
+                Nov.2023 - Jul.2024<br>
+                (9 months)
             </td>
             <td>病院向けHRシステム開発</td>
-            <td align="center">4名</td>
+            <td align="center">4</td>
             <td>
                 <ul>
-                    <li>バックエンド開発</li>
-                    <li>フロントエンド開発</li>
+                    <li>Backend Development</li>
+                    <li>Frontend Development</li>
                 </ul>
             </td>
             <td>
@@ -80,14 +79,14 @@ About me
         </tr>
         <tr>
             <td>
-                2023年10月 - 2024年6月<br>
-                (9ヶ月)
+                Oct.2023 - Jun.2024<br>
+                (9 months)
             </td>
             <td>暗号資産ウォレット管理システム開発</td>
-            <td align="center">10名以上</td>
+            <td align="center">10+</td>
             <td>
                 <ul>
-                    <li>バックエンド開発</li>
+                    <li>Backend Development</li>
                 </ul>
             </td>
             <td>
@@ -100,17 +99,17 @@ About me
         </tr>
         <tr>
             <td>
-                2020年12月 - 2023年9月<br>
-                (2年 10ヶ月)
+                Dec.2020 - Sep.2023<br>
+                (2 years 10 months)
             </td>
             <td>
                 スマートフォン向けゲームアプリのバックエンド開発<br>
                 (ネイティブアプリ)
             </td>
-            <td align="center">40名以上</td>
+            <td align="center">40+</td>
             <td>
                 <ul>
-                    <li>バックエンド開発</li>
+                    <li>Backend Development</li>
                 </ul>
             </td>
             <td>
@@ -127,15 +126,15 @@ About me
         </tr>
         <tr>
             <td>
-                2020年5月 - 2022年1月<br>
-                (1年 9ヶ月)
+                May.2020 - Jan.2022<br>
+                (1 years 9 months)
             </td>
             <td>ブランド品のECサイト運用開発</td>
-            <td align="center">2名</td>
+            <td align="center">2</td>
             <td>
                 <ul>
-                    <li>バックエンド開発</li>
-                    <li>フロントエンド開発</li>
+                    <li>Backend Development</li>
+                    <li>Frontend Development</li>
                 </ul>
             </td>
             <td>
@@ -150,15 +149,15 @@ About me
         </tr>
         <tr>
             <td>
-                2019年6月 - 2020年7月<br>
-                (1年 2ヶ月)
+                Jun.2019 - Jul.2020<br>
+                (1 years 2 months)
             </td>
             <td>訪問診療サービス業務支援システム開発</td>
-            <td align="center">5名</td>
+            <td align="center">5</td>
             <td>
                 <ul>
-                    <li>バックエンド開発</li>
-                    <li>フロントエンド開発</li>
+                    <li>Backend Development</li>
+                    <li>Frontend Development</li>
                 </ul>
             </td>
             <td>
@@ -176,14 +175,14 @@ About me
         </tr>
         <tr>
             <td>
-                2018年11月 - 2020年3月<br>
-                (1年 5ヶ月)
+                Nov.2018 - Mar.2020<br>
+                (1 years 5 months)
             </td>
             <td>IaaSサービス開発</td>
-            <td align="center">10名以上</td>
+            <td align="center">10+</td>
             <td>
                 <ul>
-                    <li>バックエンド開発</li>
+                    <li>Backend Development</li>
                 </ul>
             </td>
             <td>
@@ -197,14 +196,14 @@ About me
         </tr>
         <tr>
             <td>
-                2018年6月 - 2018年10月<br>
-                (5ヶ月)
+                Jun.2018 - Oct.2018<br>
+                (5 months)
             </td>
             <td>子供向けプログラミング教育サービス開発</td>
-            <td align="center">10名以上</td>
+            <td align="center">10+</td>
             <td>
                 <ul>
-                    <li>バックエンド開発</li>
+                    <li>Backend Development</li>
                 </ul>
             </td>
             <td>
@@ -219,17 +218,17 @@ About me
         </tr>
         <tr>
             <td>
-                2014年5月 - 2018年5月<br>
-                (4年 1ヶ月)
+                May.2014 - May.2018<br>
+                (4 years 1 months)
             </td>
             <td>
                 スマートフォン向けソーシャルゲームのバックエンド開発<br>
                 (ネイティブアプリ)
             </td>
-            <td align="center">30名以上</td>
+            <td align="center">30+</td>
             <td>
                 <ul>
-                    <li>バックエンド開発</li>
+                    <li>Backend Development</li>
                 </ul>
             </td>
             <td>
@@ -252,17 +251,17 @@ About me
         </tr>
         <tr>
             <td>
-                2013年11月 - 2014年4月<br>
-                (6ヶ月)
+                Nov.2013 - Apr.2014<br>
+                (6 months)
             </td>
             <td>
                 スマートフォン向けソーシャルゲームの開発<br>
                 (ブラウザアプリ)
             </td>
-            <td align="center">20名以上</td>
+            <td align="center">20+</td>
             <td>
                 <ul>
-                    <li>バックエンド開発</li>
+                    <li>Backend Development</li>
                 </ul>
             </td>
             <td>
@@ -279,15 +278,15 @@ About me
         </tr>
         <tr>
             <td>
-                2012年10月 - 2013年9月<br>
-                (1年)
+                Oct.2012 - Sep.2013<br>
+                (1 years)
             </td>
             <td>Facebookページ効果測定ツール開発</td>
-            <td align="center">10名以上</td>
+            <td align="center">10+</td>
             <td>
                 <ul>
-                    <li>バックエンド開発</li>
-                    <li>フロントエンド開発</li>
+                    <li>Backend Development</li>
+                    <li>Frontend Development</li>
                 </ul>
             </td>
             <td>
@@ -309,18 +308,18 @@ About me
         </tr>
         <tr>
             <td>
-                2011年8月 - 2012年8月<br>
-                (1年 1ヶ月)
+                Aug.2011 - Aug.2012<br>
+                (1 years 1 months)
             </td>
             <td>
                 フィーチャーフォン、スマートフォン向けソーシャルゲームの開発<br>
                 (ブラウザアプリ)
             </td>
-            <td align="center">20名以上</td>
+            <td align="center">20+</td>
             <td>
                 <ul>
-                    <li>バックエンド開発</li>
-                    <li>フロントエンド開発</li>
+                    <li>Backend Development</li>
+                    <li>Frontend Development</li>
                 </ul>
             </td>
             <td>
@@ -341,14 +340,14 @@ About me
         </tr>
         <tr>
             <td>
-                2010年11月 - 2011年7月<br>
-                (9ヶ月)
+                Nov.2010 - Jul.2011<br>
+                (9 months)
             </td>
             <td>iPhoneアプリクチコミサイト構築</td>
-            <td align="center">3名</td>
+            <td align="center">3</td>
             <td>
                 <ul>
-                    <li>開発全般</li>
+                    <li>Full Stack Development</li>
                 </ul>
             </td>
             <td>
@@ -366,15 +365,15 @@ About me
         </tr>
         <tr>
             <td>
-                2010年9月 - 2010年10月<br>
-                (2ヶ月)
+                Sep.2010 - Oct.2010<br>
+                (2 months)
             </td>
             <td>ネイルサロンポータルサイト改修</td>
-            <td align="center">1名</td>
+            <td align="center">1</td>
             <td>
                 <ul>
-                    <li>バックエンド開発</li>
-                    <li>フロントエンド開発</li>
+                    <li>Backend Development</li>
+                    <li>Frontend Development</li>
                 </ul>
             </td>
             <td>
@@ -390,15 +389,15 @@ About me
         </tr>
         <tr>
             <td>
-                2010年8月 - 2010年10月<br>
-                (3ヶ月)
+                Aug.2010 - Oct.2010<br>
+                (3 months)
             </td>
             <td>不動産会社 情報管理システム開発</td>
-            <td align="center">3名</td>
+            <td align="center">3</td>
             <td>
                 <ul>
-                    <li>バックエンド開発</li>
-                    <li>フロントエンド開発</li>
+                    <li>Backend Development</li>
+                    <li>Frontend Development</li>
                 </ul>
             </td>
             <td>
@@ -414,14 +413,14 @@ About me
         </tr>
         <tr>
             <td>
-                2010年5月 - 2010年5月<br>
-                (1ヶ月)
+                May.2010 - May.2010<br>
+                (1 months)
             </td>
             <td>ブログデザインのコーディング</td>
-            <td align="center">2名</td>
+            <td align="center">2</td>
             <td>
                 <ul>
-                    <li>フロントエンド開発</li>
+                    <li>Frontend Development</li>
                 </ul>
             </td>
             <td>
@@ -435,14 +434,14 @@ About me
         </tr>
         <tr>
             <td>
-                2010年4月 - 2010年7月<br>
-                (4ヶ月)
+                Apr.2010 - Jul.2010<br>
+                (4 months)
             </td>
             <td>自社PHPフレームワークバージョンアップ</td>
-            <td align="center">2名</td>
+            <td align="center">2</td>
             <td>
                 <ul>
-                    <li>ソフトウェア開発</li>
+                    <li>Software Development</li>
                 </ul>
             </td>
             <td>
@@ -457,15 +456,15 @@ About me
         </tr>
         <tr>
             <td>
-                2010年2月 - 2010年3月<br>
-                (2ヶ月)
+                Feb.2010 - Mar.2010<br>
+                (2 months)
             </td>
             <td>病院 問診票システム開発</td>
-            <td align="center">3名</td>
+            <td align="center">3</td>
             <td>
                 <ul>
-                    <li>バックエンド開発</li>
-                    <li>フロントエンド開発</li>
+                    <li>Backend Development</li>
+                    <li>Frontend Development</li>
                 </ul>
             </td>
             <td>
@@ -481,14 +480,14 @@ About me
         </tr>
         <tr>
             <td>
-                2010年1月 - 2010年2月<br>
-                (2ヶ月)
+                Jan.2010 - Feb.2010<br>
+                (2 months)
             </td>
             <td>ソフトバンク・DoCoMo フィーチャーフォン用単語帳アプリ開発</td>
-            <td align="center">1名</td>
+            <td align="center">1</td>
             <td>
                 <ul>
-                    <li>ソフトウェア開発</li>
+                    <li>Software Development</li>
                 </ul>
             </td>
             <td>
@@ -501,14 +500,14 @@ About me
         </tr>
         <tr>
             <td>
-                2009年10月 - 2010年1月<br>
-                (3ヶ月)
+                Oct.2009 - Jan.2010<br>
+                (3 months)
             </td>
             <td>自社PHPフレームワーク開発</td>
-            <td align="center">2名</td>
+            <td align="center">2</td>
             <td>
                 <ul>
-                    <li>ソフトウェア開発</li>
+                    <li>Software Development</li>
                 </ul>
             </td>
             <td>
@@ -523,15 +522,15 @@ About me
         </tr>
         <tr>
             <td>
-                2008年7月 - 2009年6月<br>
-                (1年)
+                Jul.2008 - Jun.2009<br>
+                (1 years)
             </td>
             <td>大手インターネットサービスプロバイダの社内業務用システム開発</td>
-            <td align="center">20名以上</td>
+            <td align="center">20+</td>
             <td>
                 <ul>
-                    <li>バックエンド開発</li>
-                    <li>ドキュメント作成</li>
+                    <li>Backend Development</li>
+                    <li>Writing Documentation</li>
                 </ul>
             </td>
             <td>
@@ -547,8 +546,8 @@ About me
 Profiles
 --------------------
 
-- 日本語
-- [English](README.en.md)
+- [日本語](README.md)
+- English
 
 --------------------
 
