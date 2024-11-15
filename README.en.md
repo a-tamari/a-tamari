@@ -1,4 +1,4 @@
-Akihiro Tamari (玉利 彰浩)
+Akihiro Tamari
 ====================
 
 Hi there :wave:, I'm freelance web engineer in Japan.
@@ -55,8 +55,8 @@ About me
     <tbody>
         <tr>
             <td>
-                Oct.2023 - Jul.2024<br>
-                (7 months)
+                Nov.2023 - Jul.2024<br>
+                (9 months)
             </td>
             <td>病院向けHRシステム開発</td>
             <td align="center">4</td>
@@ -79,7 +79,7 @@ About me
         <tr>
             <td>
                 Oct.2023 - Jun.2024<br>
-                (6 months)
+                (9 months)
             </td>
             <td>暗号資産ウォレット管理システム開発</td>
             <td align="center">10+</td>
@@ -479,7 +479,7 @@ About me
         <tr>
             <td>
                 Jan.2010 - Feb.2010<br>
-                (1 months)
+                (2 months)
             </td>
             <td>ソフトバンク・DoCoMo フィーチャーフォン用単語帳アプリ開発</td>
             <td align="center">1</td>
@@ -527,7 +527,7 @@ About me
             <td align="center">20+</td>
             <td>
                 <ul>
-                    <li>Software Development</li>
+                    <li>Backend Development</li>
                     <li>Writing Documentation</li>
                 </ul>
             </td>
@@ -544,8 +544,8 @@ About me
 Profiles
 --------------------
 
-- 日本語
-- [English](README.en.md)
+- [日本語](README.md)
+- English
 
 --------------------
 
