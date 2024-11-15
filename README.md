@@ -164,6 +164,7 @@ About me
                 <ul>
                     <li>Ruby</li>
                     <li>Ruby on Rails</li>
+                    <li>Vue.js</li>
                     <li>NGINX</li>
                     <li>PostgreSQL</li>
                     <li>Redis</li>
