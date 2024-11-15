@@ -40,17 +40,62 @@ About me
 
 ### Works
 
-#### Professional Experiences
+#### Professional Experience
 
 <table>
     <thead>
         <tr>
             <th>Term</th>
             <th>Project</th>
+            <th>Team Size</th>
+            <th>Responsibilities</th>
             <th>Technologies Employed</th>
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td>
+                Oct.2023 - Jul.2024<br>
+                (7 months)
+            </td>
+            <td>病院向けHRシステム開発</td>
+            <td align="center">4</td>
+            <td>
+                <ul>
+                    <li>Backend Development</li>
+                    <li>Frontend Development</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>PHP</li>
+                    <li>Laravel</li>
+                    <li>NGINX</li>
+                    <li>MySQL</li>
+                    <li>Docker</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Oct.2023 - Jun.2024<br>
+                (6 months)
+            </td>
+            <td>暗号資産ウォレット管理システム開発</td>
+            <td align="center">10+</td>
+            <td>
+                <ul>
+                    <li>Backend Development</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Go</li>
+                    <li>Spanner</li>
+                    <li>gRPC</li>
+                </ul>
+            </td>
+        </tr>
         <tr>
             <td>
                 Dec.2020 - Sep.2023<br>
@@ -60,14 +105,22 @@ About me
                 スマートフォン向けゲームアプリのバックエンド開発<br>
                 (ネイティブアプリ)
             </td>
+            <td align="center">40+</td>
             <td>
-                PHP<br>
-                Laravel<br>
-                PHPUnit<br>
-                NGINX<br>
-                MySQL<br>
-                Docker<br>
-                Swagger (OpenAPI)
+                <ul>
+                    <li>Backend Development</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>PHP</li>
+                    <li>Laravel</li>
+                    <li>PHPUnit</li>
+                    <li>NGINX</li>
+                    <li>MySQL</li>
+                    <li>Docker</li>
+                    <li>Swagger (OpenAPI)</li>
+                </ul>
             </td>
         </tr>
         <tr>
@@ -76,12 +129,21 @@ About me
                 (1 years 9 months)
             </td>
             <td>ブランド品のECサイト運用開発</td>
+            <td align="center">2</td>
             <td>
-                PHP<br>
-                Slim<br>
-                NGINX<br>
-                MySQL<br>
-                Docker
+                <ul>
+                    <li>Backend Development</li>
+                    <li>Frontend Development</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>PHP</li>
+                    <li>Slim</li>
+                    <li>NGINX</li>
+                    <li>MySQL</li>
+                    <li>Docker</li>
+                </ul>
             </td>
         </tr>
         <tr>
@@ -90,13 +152,23 @@ About me
                 (1 years 2 months)
             </td>
             <td>訪問診療サービス業務支援システム開発</td>
+            <td align="center">5</td>
             <td>
-                Ruby<br>
-                Ruby on Rails<br>
-                NGINX<br>
-                PostgreSQL<br>
-                Redis<br>
-                Docker
+                <ul>
+                    <li>Backend Development</li>
+                    <li>Frontend Development</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Ruby</li>
+                    <li>Ruby on Rails</li>
+                    <li>NGINX</li>
+                    <li>PostgreSQL</li>
+                    <li>Redis</li>
+                    <li>Vagrant</li>
+                    <li>Docker</li>
+                </ul>
             </td>
         </tr>
         <tr>
@@ -105,11 +177,19 @@ About me
                 (1 years 5 months)
             </td>
             <td>IaaSサービス開発</td>
+            <td align="center">10+</td>
             <td>
-                Ruby<br>
-                MySQL<br>
-                Docker<br>
-                Jenkins
+                <ul>
+                    <li>Backend Development</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Ruby</li>
+                    <li>MySQL</li>
+                    <li>Docker</li>
+                    <li>Jenkins</li>
+                </ul>
             </td>
         </tr>
         <tr>
@@ -118,12 +198,20 @@ About me
                 (5 months)
             </td>
             <td>子供向けプログラミング教育サービス開発</td>
+            <td align="center">10+</td>
             <td>
-                Golang<br>
-                MySQL<br>
-                Jenkins<br>
-                VirtualBox<br>
-                Docker
+                <ul>
+                    <li>Backend Development</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Go</li>
+                    <li>MySQL</li>
+                    <li>Jenkins</li>
+                    <li>VirtualBox</li>
+                    <li>Docker</li>
+                </ul>
             </td>
         </tr>
         <tr>
@@ -135,20 +223,28 @@ About me
                 スマートフォン向けソーシャルゲームのバックエンド開発<br>
                 (ネイティブアプリ)
             </td>
+            <td align="center">30+</td>
             <td>
-                PHP<br>
-                Codeigniter<br>
-                PHPUnit<br>
-                Deployer<br>
-                Ruby<br>
-                Capistrano<br>
-                standalone-migrations<br>
-                Jenkins<br>
-                PlantUML<br>
-                MySQL<br>
-                Redis<br>
-                memcache<br>
-                RabbitMQ
+                <ul>
+                    <li>Backend Development</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>PHP</li>
+                    <li>Codeigniter</li>
+                    <li>PHPUnit</li>
+                    <li>Deployer</li>
+                    <li>Ruby</li>
+                    <li>Capistrano</li>
+                    <li>standalone-migrations</li>
+                    <li>Jenkins</li>
+                    <li>PlantUML</li>
+                    <li>MySQL</li>
+                    <li>Redis</li>
+                    <li>memcache</li>
+                    <li>RabbitMQ</li>
+                </ul>
             </td>
         </tr>
         <tr>
@@ -160,14 +256,22 @@ About me
                 スマートフォン向けソーシャルゲームの開発<br>
                 (ブラウザアプリ)
             </td>
+            <td align="center">20+</td>
             <td>
-                JavaScript<br>
-                Node.js<br>
-                Node.jsの独自FW<br>
-                jQuery<br>
-                MySQL<br>
-                Redis<br>
-                Cassandra
+                <ul>
+                    <li>Backend Development</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>JavaScript</li>
+                    <li>Node.js</li>
+                    <li>Node.jsの独自FW</li>
+                    <li>jQuery</li>
+                    <li>MySQL</li>
+                    <li>Redis</li>
+                    <li>Cassandra</li>
+                </ul>
             </td>
         </tr>
         <tr>
@@ -176,19 +280,28 @@ About me
                 (1 years)
             </td>
             <td>Facebookページ効果測定ツール開発</td>
+            <td align="center">10+</td>
             <td>
-                PHP<br>
-                CakePHP<br>
-                HTML<br>
-                CSS<br>
-                JavaScript<br>
-                jQuery<br>
-                NGINX<br>
-                MySQL<br>
-                memcached<br>
-                Redis<br>
-                Resque<br>
-                MongoDB
+                <ul>
+                    <li>Backend Development</li>
+                    <li>Frontend Development</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>PHP</li>
+                    <li>CakePHP</li>
+                    <li>HTML</li>
+                    <li>CSS</li>
+                    <li>JavaScript</li>
+                    <li>jQuery</li>
+                    <li>NGINX</li>
+                    <li>MySQL</li>
+                    <li>memcached</li>
+                    <li>Redis</li>
+                    <li>Resque</li>
+                    <li>MongoDB</li>
+                </ul>
             </td>
         </tr>
         <tr>
@@ -200,18 +313,27 @@ About me
                 フィーチャーフォン、スマートフォン向けソーシャルゲームの開発<br>
                 (ブラウザアプリ)
             </td>
+            <td align="center">20+</td>
             <td>
-                Ruby<br>
-                Ruby on Rails<br>
-                HTML<br>
-                CSS3<br>
-                JavaScript<br>
-                jQuery<br>
-                NGINX<br>
-                MySQL<br>
-                memcached<br>
-                Redis<br>
-                Resque
+                <ul>
+                    <li>Backend Development</li>
+                    <li>Frontend Development</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Ruby</li>
+                    <li>Ruby on Rails</li>
+                    <li>HTML</li>
+                    <li>CSS3</li>
+                    <li>JavaScript</li>
+                    <li>jQuery</li>
+                    <li>NGINX</li>
+                    <li>MySQL</li>
+                    <li>memcached</li>
+                    <li>Redis</li>
+                    <li>Resque</li>
+                </ul>
             </td>
         </tr>
         <tr>
@@ -220,15 +342,23 @@ About me
                 (9 months)
             </td>
             <td>iPhoneアプリクチコミサイト構築</td>
+            <td align="center">3</td>
             <td>
-                PHP<br>
-                Codeigniter<br>
-                CSS3<br>
-                JavaScript<br>
-                jQuery<br>
-                Apache<br>
-                MySQL<br>
-                Memcached
+                <ul>
+                    <li>Full Stack Development</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>PHP</li>
+                    <li>Codeigniter</li>
+                    <li>CSS3</li>
+                    <li>JavaScript</li>
+                    <li>jQuery</li>
+                    <li>Apache</li>
+                    <li>MySQL</li>
+                    <li>Memcached</li>
+                </ul>
             </td>
         </tr>
         <tr>
@@ -237,13 +367,22 @@ About me
                 (2 months)
             </td>
             <td>ネイルサロンポータルサイト改修</td>
+            <td align="center">1</td>
             <td>
-                PHP<br>
-                JavaScript<br>
-                jQuery<br>
-                Apache<br>
-                CakePHP<br>
-                MySQL
+                <ul>
+                    <li>Backend Development</li>
+                    <li>Frontend Development</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>PHP</li>
+                    <li>JavaScript</li>
+                    <li>jQuery</li>
+                    <li>Apache</li>
+                    <li>CakePHP</li>
+                    <li>MySQL</li>
+                </ul>
             </td>
         </tr>
         <tr>
@@ -252,13 +391,22 @@ About me
                 (3 months)
             </td>
             <td>不動産会社 情報管理システム開発</td>
+            <td align="center">3</td>
             <td>
-                PHP<br>
-                自社PHP FW<br>
-                JavaScript<br>
-                ExtJS<br>
-                Apache<br>
-                MySQL
+                <ul>
+                    <li>Backend Development</li>
+                    <li>Frontend Development</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>PHP</li>
+                    <li>自社PHP FW</li>
+                    <li>JavaScript</li>
+                    <li>ExtJS</li>
+                    <li>Apache</li>
+                    <li>MySQL</li>
+                </ul>
             </td>
         </tr>
         <tr>
@@ -267,11 +415,19 @@ About me
                 (1 months)
             </td>
             <td>ブログデザインのコーディング</td>
+            <td align="center">2</td>
             <td>
-                HTML<br>
-                CSS<br>
-                JavaScript<br>
-                MovableType4
+                <ul>
+                    <li>Frontend Development</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>HTML</li>
+                    <li>CSS</li>
+                    <li>JavaScript</li>
+                    <li>MovableType4</li>
+                </ul>
             </td>
         </tr>
         <tr>
@@ -280,12 +436,20 @@ About me
                 (4 months)
             </td>
             <td>自社PHPフレームワークバージョンアップ</td>
+            <td align="center">2</td>
             <td>
-                PHP<br>
-                Apache<br>
-                MySQL<br>
-                Oracle<br>
-                PostgreSQL
+                <ul>
+                    <li>Software Development</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>PHP</li>
+                    <li>Apache</li>
+                    <li>MySQL</li>
+                    <li>Oracle</li>
+                    <li>PostgreSQL</li>
+                </ul>
             </td>
         </tr>
         <tr>
@@ -294,13 +458,22 @@ About me
                 (2 months)
             </td>
             <td>病院 問診票システム開発</td>
+            <td align="center">3</td>
             <td>
-                PHP<br>
-                自社PHP FW<br>
-                Javascript<br>
-                ExtJS<br>
-                Apache<br>
-                MySQL
+                <ul>
+                    <li>Backend Development</li>
+                    <li>Frontend Development</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>PHP</li>
+                    <li>自社PHP FW</li>
+                    <li>Javascript</li>
+                    <li>ExtJS</li>
+                    <li>Apache</li>
+                    <li>MySQL</li>
+                </ul>
             </td>
         </tr>
         <tr>
@@ -309,10 +482,18 @@ About me
                 (1 months)
             </td>
             <td>ソフトバンク・DoCoMo フィーチャーフォン用単語帳アプリ開発</td>
+            <td align="center">1</td>
             <td>
-                Java 1.5<br>
-                MEXA 2.3<br>
-                DoJa 5.1
+                <ul>
+                    <li>Software Development</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Java</li>
+                    <li>MEXA</li>
+                    <li>DoJa</li>
+                </ul>
             </td>
         </tr>
         <tr>
@@ -321,12 +502,20 @@ About me
                 (3 months)
             </td>
             <td>自社PHPフレームワーク開発</td>
+            <td align="center">2</td>
             <td>
-                PHP<br>
-                Apache<br>
-                MySQL<br>
-                Oracle<br>
-                PostgreSQL
+                <ul>
+                    <li>Software Development</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>PHP</li>
+                    <li>Apache</li>
+                    <li>MySQL</li>
+                    <li>Oracle</li>
+                    <li>PostgreSQL</li>
+                </ul>
             </td>
         </tr>
         <tr>
@@ -334,10 +523,19 @@ About me
                 Jul.2008 - Jun.2009<br>
                 (1 years)
             </td>
-            <td>某大手インターネットサービスプロバイダの社内業務用システム開発</td>
+            <td>大手インターネットサービスプロバイダの社内業務用システム開発</td>
+            <td align="center">20+</td>
             <td>
-                Java 1.4<br>
-                Oracle
+                <ul>
+                    <li>Software Development</li>
+                    <li>Writing Documentation</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Java</li>
+                    <li>Oracle</li>
+                </ul>
             </td>
         </tr>
     </tbody>
