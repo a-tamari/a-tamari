@@ -16,6 +16,7 @@ About me
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=FFF)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=FFF)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3)
+![Terraform](https://img.shields.io/badge/Terraform-844fba?logo=Terraform&logoColor=fff)
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=FFF)
 ![Slim](https://img.shields.io/badge/Slim-719E40)
@@ -54,6 +55,32 @@ About me
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td>
+                Jan.2025 - Dec.2025<br>
+                (12 months)
+            </td>
+            <td>社内用会計管理システムの開発</td>
+            <td align="center">3</td>
+            <td>
+                <ul>
+                    <li>Backend Development</li>
+                    <li>Frontend Development</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Go</li>
+                    <li>TypeScript</li>
+                    <li>Vue.js</li>
+                    <li>PHP</li>
+                    <li>FuelPHP</li>
+                    <li>Terraform</li>
+                    <li>MySQL</li>
+                    <li>Docker</li>
+                </ul>
+            </td>
+        </tr>
         <tr>
             <td>
                 Nov.2023 - Jul.2024<br>
